@@ -1,0 +1,5 @@
+Prepend : 
+javascript: (function() {
+
+Append :
+})();
